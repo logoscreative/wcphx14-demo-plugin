@@ -1,7 +1,9 @@
 Temporary Cache Assistance (Transients API): WordCamp Phoenix 2014
 ===================
 
-This plugin offers code examples used in my presentation, but in OOP fashion. Grab the [slides](http://www.slideshare.net/cliffseal/transients-wcphx), install this plugin (or just load it up), and follow along.
+This plugin offers code examples used in my presentation, but in OOP fashion, executed by shortcodes. 
+
+Grab the [slides](http://www.slideshare.net/cliffseal/transients-wcphx), install this plugin (or just load it up), and follow along.
 
 Examples include:
 
