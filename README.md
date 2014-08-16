@@ -11,8 +11,8 @@ Grab the [slides](http://www.slideshare.net/cliffseal/transients-wcphx), then:
 
 Examples include:
 
-1. Caching a tag cloud
-1. Caching GitHub Issues
-1. Refreshing Transients by Admin Bar Link
-1. Caching Big Queries
-1. Defeating Race Conditions with Cron
+* Caching a tag cloud
+* Caching GitHub Issues
+* Refreshing Transients by Admin Bar Link
+* Caching Big Queries
+* Defeating Race Conditions with Cron
