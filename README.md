@@ -1,4 +1,4 @@
-Temporary Cache Assistance (Transients API): WordCamp Phoenix 2014
+Temporary Cache Assistance (Transients API)
 ===================
 
 This plugin offers code examples used in my presentation, but in OOP fashion, executed by shortcodes. 
